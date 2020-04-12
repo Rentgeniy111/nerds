@@ -1133,7 +1133,7 @@ ul.sort-filter-order {
   padding: 73px 100px 84px;
   font-weight: 700;
   box-shadow: 0 30px 50px rgba(0, 0, 0, 0.7);
-  bottom: 360px;
+  bottom: calc(50% - 300px);
   left: calc(50% - 480px);
 }
 
